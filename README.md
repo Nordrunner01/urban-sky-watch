@@ -1,4 +1,4 @@
-# urban-sky-watch
+# urbansense-skywatch
 Umweltdatenerfassung mit Einplatinencomputern in modularer Bauweise
 
 Ich möchte versuchen mit diesem Projekt die verschiedensten Umwelteinflüsse mit denen wir zu tun haben zu erfassen.
